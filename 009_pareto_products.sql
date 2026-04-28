@@ -25,4 +25,5 @@ select
 	count(p.product_id) as total_products
 	,count(p.product_id) filter (where p.pct_cumulative <= 80 ) as top_products
 	,round((100.0*count(p.product_id) filter (where p.pct_cumulative <= 80 )/count(p.product_id))::numeric, 2)
+	  as pct_products_of_80_pct_revenue
 from pareto p
