@@ -47,6 +47,14 @@ This ensures analysis reflects realized revenue.
 - Customer satisfaction decreases with delivery delays. Orders delivered more than 4 days late receive an average rating below 2
 
 
+## 📸 Example Outputs
+### Monthly Revenue Trends
+![Monthly Revenue](images/monthly_revenue.png)
+
+### Delivery Delay Impact on Reviews
+![Delivery Delay](images/delivery_delays_vs_review.png)
+
+
 ## Tools
 PostgreSQL
 
