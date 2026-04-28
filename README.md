@@ -9,16 +9,16 @@ The goal was to explore revenue patterns, customer segmentation and delivery per
 
 ## Project Structure
 - **001_total_revenue.sql**        - Total revenue from delivered orders
-- 002_revenue_per_month_2017.sql   -> Monthly revenue trends 
-- 003_top_products.sql             -> Top products by quantity sold  
-- 004_product_revenue.sql          -> Top products by generated revenue
-- 005_category_analysis.sql        -> Revenue distribution across product categories
-- 006_top_customers.sql            -> Customers generating the highest revenue
-- 007_customer_segmentation.sql    -> Customers divided into revenue-based segments (VIP to Low)
-- 008_pareto_customers.sql         -> Pareto Analysis for customers
-- 009_pareto_products.sql          -> Pareto Analysis for products
-- 010_delivery_time_impact.sql     -> Delivery time vs review score
-- 011_delivery_delay_impact.sql    -> Delivery delays vs review score
+- **002_revenue_per_month_2017.sql**   - Monthly revenue trends 
+- **003_top_products.sql**             - Top products by quantity sold  
+- **004_product_revenue.sql**          - Top products by generated revenue
+- **005_category_analysis.sql**        - Revenue distribution across product categories
+- **006_top_customers.sql**            - Customers generating the highest revenue
+- **007_customer_segmentation.sql**    - Customers divided into revenue-based segments (VIP to Low)
+- **008_pareto_customers.sql**         - Pareto Analysis for customers
+- **009_pareto_products.sql**          - Pareto Analysis for products
+- **010_delivery_time_impact.sql**     - Delivery time vs review score
+- **011_delivery_delay_impact.sql**    - Delivery delays vs review score
 
 
 ## Key Analyses
