@@ -5,6 +5,19 @@ E-commerce Data Analysis (SQL Project)
 This project analyzes an e-commerce dataset using PostgreSQL.
 The goal was to explore revenue patterns, customer segmentation and delivery performance.
 
+## Project Structure
+- 001_total_revenue.sql
+- 002_revenue_per_month.sql
+- 003_top_products.sql
+- 004_product_revenue.sql
+- 005_category_analysis.sql
+- 006_top_customers.sql
+- 007_customer_segmentation.sql
+- 008_pareto_customers.sql
+- 009_pareto_products.sql
+- 010_delivery_time_analysis.sql
+- 011_delivery_delay_impact.sql
+
 ## Key Analyses
 - Revenue trends
 - Top products
