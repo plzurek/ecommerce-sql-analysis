@@ -7,7 +7,7 @@ The goal was to explore revenue patterns, customer segmentation and delivery per
 
 ## Project Structure
 - 001_total_revenue.sql
-- 002_revenue_per_month.sql
+- 002_revenue_per_month_2017.sql
 - 003_top_products.sql
 - 004_product_revenue.sql
 - 005_category_analysis.sql
@@ -15,7 +15,7 @@ The goal was to explore revenue patterns, customer segmentation and delivery per
 - 007_customer_segmentation.sql
 - 008_pareto_customers.sql
 - 009_pareto_products.sql
-- 010_delivery_time_analysis.sql
+- 010_delivery_time_impact.sql -> Delivery time vs review score
 - 011_delivery_delay_impact.sql
 
 ## Key Analyses
