@@ -1,11 +1,11 @@
 # E-commerce SQL Analysis
 E-commerce Data Analysis (SQL Project)
 
-##Overview
+## Overview
 This project analyzes an e-commerce dataset using PostgreSQL.
 The goal was to explore revenue patterns, customer segmentation and delivery performance.
 
-##Key Analyses
+## Key Analyses
 - Revenue trends
 - Top products
 - Customer segmentation
