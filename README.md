@@ -20,6 +20,7 @@ The following statuses were excluded:
 - created
 - approved
 - invoiced
+
 This ensures analysis reflects realized revenue.
 
 
