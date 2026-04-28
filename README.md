@@ -47,7 +47,7 @@ This ensures analysis reflects realized revenue.
 - Customer satisfaction decreases with delivery delays. Orders delivered more than 4 days late receive an average rating below 2
 
 
-## 📸 Example Outputs
+## Example Query Results
 ### Monthly Revenue Trends
 ![Monthly Revenue](images/monthly_revenue.png)
 
